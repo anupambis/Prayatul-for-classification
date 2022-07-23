@@ -2,9 +2,13 @@
 Prayatul Matrix and scores for direct comparison of Machine Learning algorithms
 
 Source codes demo version 1.0
+
 Developed in Python 3
+
 Author and programmer: Anupam Biswas
+    
     e-Mail:    anupam@cse.nits.ac.in                                             
+    
     Homepage: http://cs.nits.ac.in/anupam/  
     
     
