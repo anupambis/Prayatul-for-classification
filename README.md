@@ -11,7 +11,9 @@ Author and programmer: Anupam Biswas
 Both python file as well as notebook versions are available.
 
 Instructions:
+
   To evaluate performance of two machine learning algorithmns, you just need to replace three input arguments of generatePrayatulMatrix (G, P, Q).
+    
      1) G : Ground truth labels of all samples in the dataset 
      2) P : Predicted labels obtained with primary algorithm 
      3) Q : Predicted labels obtained with alternative algorithm
