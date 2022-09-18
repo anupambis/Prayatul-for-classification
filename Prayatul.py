@@ -58,10 +58,9 @@ def getScores(D):
         sigmaC=(RW-WR)/(RW+WR+k)
     else:
         sigmaC=(RW-WR)/(RW+WR)
-    if BR==0 and BW==0:
-        alpha=(BR-BW)/(BR+BW+k)
-    else:
-        alpha=(BR-BW)/(BR+BW)
+    
+    alpha=(BR+RW-BW)/(BR+RW+WR+BW)
+    
     if BR==0 and RW==0 and WR==0:
         xiC=(BR+RW)/(BR+RW+WR+k)
         xiE=(BR+RW-WR)/(BR+RW+WR+k)
