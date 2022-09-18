@@ -1,5 +1,5 @@
 # Prayatul
-Prayatul Matrix and scores for direct comparison of Machine Learning algorithms
+Prayatul Matrix and scores for direct comparison of Supervised Machine Learning algorithms
 
 Source codes demo version 1.0
 
